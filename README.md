@@ -10,6 +10,6 @@ View here: https://glowbal.myloyaltycard.ca/sign-in
 <img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/10%20LoyaltyCustomer%20SignIn.jpg" style="width: 100%; height: auto;" alt="Image description">
 <img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/11%20LoyaltyCusomter%20Cusomter_View_Offers.jpg" style="width: 100%; height: auto;" alt="Image description">
 <img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/12%20LoyaltyCusomter%20Cusomter_Loyalty_Card.jpg" style="width: 100%; height: auto;" alt="Image description">
-<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/13%20LoyaltyCusomter%20Responsiveness.jpg" style="width: 100%; height: auto;" alt="Image description">
-<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/14%20LoyaltyCusomter%20Responsiveness_2.jpg" style="width: 100%; height: auto;" alt="Image description">
-<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/15%20LoyaltyCusomter%20Responsiveness_3.jpg" style="width: 100%; height: auto;" alt="Image description">
+<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/13%20LoyaltyCusomter%20Responsiveness.jpg" style="display: flex; justify-content: center; align-items: center; margin: auto; width: 50%; height: auto;" alt="Image description">
+<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/14%20LoyaltyCusomter%20Responsiveness_2.jpg" style="display: flex; justify-content: center; align-items: center; margin: auto; width: 50%; height: auto;" alt="Image description">
+<img src="https://github.com/aryanarora0303/Projects-Media/blob/main/LoyaltyPass/15%20LoyaltyCusomter%20Responsiveness_3.jpg" style="display: flex; justify-content: center; align-items: center; margin: auto; width: 50%; height: auto;" alt="Image description">
